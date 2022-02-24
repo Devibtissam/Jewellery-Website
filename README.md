@@ -1,0 +1,1 @@
+![Website Mockup]{./images/website-mockup.png}
